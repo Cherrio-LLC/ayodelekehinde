@@ -4,7 +4,6 @@
 - [Dilivva](https://play.google.com/store/apps/details?id=com.nqb8.dilivvasender)
 - [sheetsDB](https://github.com/Cherrio-LLC/sheets-db)
 - [CashPally](https://play.google.com/store/apps/details?id=com.nqb8.cashpally)
-- [npm-publish](https://petuska.dev/npm-publish)
 
 ### 🤔 What I have worked on
 - [Victoria](https://victoria.cashpally.com)
